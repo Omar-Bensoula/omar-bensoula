@@ -4,4 +4,5 @@ My name is Omar and I'm an MSci Physics graduate from Imperial College London, l
 
 #### 🔎 I’m currently focusing on
 - Physics-focused AI evaluation at [DataAnnotation](https://www.dataannotation.tech/physics-25)
+- An SQL project analysing santander cycle usage data
 
